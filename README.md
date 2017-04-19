@@ -1,4 +1,7 @@
-# test coverage for  [bole (v3.0.2)](https://github.com/rvagg/bole#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-bole.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-bole) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-bole.svg)](https://travis-ci.org/npmtest/node-npmtest-bole)
+# npmtest-bole
+
+#### test coverage for  [bole (v3.0.2)](https://github.com/rvagg/bole#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-bole.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-bole) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-bole.svg)](https://travis-ci.org/npmtest/node-npmtest-bole)
+
 #### A tiny JSON logger
 
 [![NPM](https://nodei.co/npm/bole.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/bole)
